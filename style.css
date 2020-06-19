@@ -1,0 +1,13 @@
+body{
+    background-image: url("imag2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(102, 12, 12);
+}
+h1{
+    color: lawngreen;
+    background-color: whitesmoke;
+}
+p{
+    color:wheat;
+}
